@@ -19,11 +19,11 @@ Cisco Packet Tracer (Realtime + Simulation Mode)
 
 ## Screenshots
 
-![Network Topology](topology.jpeg)
+![Network Topology](Network%20Topology.jpeg)
 
-![Successful Ping](ping_success.jpeg)
+![Successful Ping](Successful%20Ping.jpeg)
 
-![Gratuitous ARP Packet Capture](arp_packet.jpeg)
+![Gratuitous ARP Packet Capture](Gratuitous%20ARP%20Packet%20Capture.jpeg)
 
 ## Files
-- `.pkt` project file included in this repository (open with Cisco Packet Tracer)
+- `home network.pkt` — Full Packet Tracer project file (open with Cisco Packet Tracer)
