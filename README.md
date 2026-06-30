@@ -26,4 +26,4 @@ Cisco Packet Tracer (Realtime + Simulation Mode)
 ![Gratuitous ARP Packet Capture](Gratuitous%20ARP%20Packet%20Capture.jpeg)
 
 ## Files
-- `home network.pkt` — Full Packet Tracer project file (open with Cisco Packet Tracer)
+- [home network.pkt](home%20network.pkt) — Full Packet Tracer project file (open with Cisco Packet Tracer)
